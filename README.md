@@ -1,6 +1,6 @@
 # SP500 - FTSE100 Dashboard
 A simple yet insightful data visualization dashboard comparing the SP500 and FTSE100 indices using interactive charts, pie diagrams, and data tables.
-
+<img width="1373" height="719" alt="Στιγμιότυπο οθόνης 2025-07-30 131701" src="https://github.com/user-attachments/assets/becf4069-966d-40ac-ac22-96fe4ecb4616" />
 # Description
 This project provides a visual comparison of the SP500 and FTSE100 indices across different time periods. It includes:
 
@@ -23,4 +23,3 @@ Tabular breakdown of index values across multiple years
 
 Clean UI with responsive layout
 
-<img width="1373" height="719" alt="Στιγμιότυπο οθόνης 2025-07-30 131701" src="https://github.com/user-attachments/assets/becf4069-966d-40ac-ac22-96fe4ecb4616" />
